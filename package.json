@@ -1,0 +1,22 @@
+{
+  "name": "canil",
+  "version": "1.0.0",
+  "description": "### Desenvolvido em TypeScript e Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennyAzevedo/nodets-canil.git"
+  },
+  "author": "Denny Azevedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DennyAzevedo/nodets-canil/issues"
+  },
+  "homepage": "https://github.com/DennyAzevedo/nodets-canil#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
