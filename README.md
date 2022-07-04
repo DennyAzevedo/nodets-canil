@@ -3,7 +3,7 @@
 ### Desenvolvido em TypeScript e Node.js
 
 Projeto utilizado como base de ensino, e treinamento, dos cursos de **Informática**,
-principalmente de nível técnico - **Soitech**.
+principalmente de nível técnico.
 
 O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
