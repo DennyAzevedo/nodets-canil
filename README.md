@@ -7,6 +7,28 @@ principalmente de nível técnico.
 
 O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
+## Telas do site
+
+### Tela Inicial - home - Todos animais
+
+![Tela Home](https://md.dev.br/img/TreinaAula/CanilNodeTsAll.png)
+
+### Tela Cachorros
+
+![Tela Dogs](https://md.dev.br/img/TreinaAula/CanilNodeTsDogs.png)
+
+### Tela Gatos
+
+![Tela Cats](https://md.dev.br/img/TreinaAula/CanilNodeTsCats.png)
+
+### Tela Peixes
+
+![Tela Fishes](https://md.dev.br/img/TreinaAula/CanilNodeTsFishes.png)
+
+### Tela Busca
+
+![Tela Search](https://md.dev.br/img/TreinaAula/CanilNodeTsSearch.png)
+
 ### Pré-requisitos globais:
 
 `npm i -g nodemon typescript ts-node`
