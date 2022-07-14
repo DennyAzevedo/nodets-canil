@@ -29,6 +29,10 @@ O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
 ![Tela Search](https://md.dev.br/img/TreinaAula/CanilNodeTsSearch.png)
 
+### Tela Deploy - Heroku
+
+![Tela Search](https://md.dev.br/img/TreinaAula/CanilDeploy.png)
+
 ### Pré-requisitos globais:
 
 `npm i -g nodemon typescript ts-node`
