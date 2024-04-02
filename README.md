@@ -15,35 +15,23 @@ O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
 ### Tela Cachorros
 
-![Tela Dogs](https://md.dev.br/img/TreinaAula/CanilNodeTsDogs.png)
+![Tela Dogs](https://mdcursos.dev.br/img/TreinaAula/CanilNodeTsDogs.png)
 
 ### Tela Gatos
 
-![Tela Cats](https://md.dev.br/img/TreinaAula/CanilNodeTsCats.png)
+![Tela Cats](https://mdcursos.dev.br/img/TreinaAula/CanilNodeTsCats.png)
 
 ### Tela Peixes
 
-![Tela Fishes](https://md.dev.br/img/TreinaAula/CanilNodeTsFishes.png)
+![Tela Fishes](https://mdcursos.dev.br/img/TreinaAula/CanilNodeTsFishes.png)
 
 ### Tela Busca
 
-![Tela Search](https://md.dev.br/img/TreinaAula/CanilNodeTsSearch.png)
+![Tela Search](https://mdcursos.dev.br/img/TreinaAula/CanilNodeTsSearch.png)
 
 ### Tela Deploy - Heroku
 
-![Tela Search](https://md.dev.br/img/TreinaAula/CanilDeploy.png)
-
-### Pré-requisitos globais:
-
-`npm i -g nodemon typescript ts-node`
-
-### Instalação
-
-`npm install`
-
-### Para rodar o projeto
-
-`npm run start-dev`
+![Tela Search](https://mdcursos.dev.br/img/TreinaAula/CanilDeploy.png)
 
 Autor: **Denny Paulista Azevedo Filho**
 
