@@ -11,7 +11,7 @@ O nosso projeto tem como base projetos do curso [B7Web](https://b7web.com.br/)
 
 ### Tela Inicial - home - Todos animais
 
-![Tela Home](https://md.dev.br/img/TreinaAula/CanilNodeTsAll.png)
+![Tela Home](https://mdcursos.dev.br/img/TreinaAula/CanilNodeTsAll.png)
 
 ### Tela Cachorros
 
